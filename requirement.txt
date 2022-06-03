@@ -1,0 +1,4 @@
+dgl == 0.4.3
+torch == 1.4.0    
+networkx == 2.3  
+numpy == 1.17
